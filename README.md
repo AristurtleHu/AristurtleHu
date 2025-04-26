@@ -4,8 +4,8 @@
 - 🌱 Working Time: 10:00 - 23:00 (UTC +8:00)
 - 👯 I’m looking to collaborate on Edge Artificial Intelligence.
 - 📫 How to reach me:
-1. yangry2023@shanghaitech.edu.cn
-2. yangry@berkeley.edu
+  - yangry2023 *AT* shanghaitech.edu.cn
+  - yangry *AT* berkeley.edu
 
 <!--
 #### My GitHub Stats
