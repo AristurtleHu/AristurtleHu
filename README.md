@@ -1,8 +1,6 @@
-### Hi, I'm Renyi Yang, currently an undergraduate student at ShanghaiTech University (major in CS)
+### Hi, I'm Renyi Yang, currently an undergraduate student major in CS.
 
 #### About Me
-- 🌱 Working Time: 10:00 - 23:00 (UTC +8:00)
-- 👯 I’m looking to collaborate on Edge Artificial Intelligence.
 - 📫 How to reach me:
   - yangry2023 *AT* shanghaitech.edu.cn
   - yangry *AT* berkeley.edu
